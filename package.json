@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "pterodactyl-discord-bot",
+  "version": "1.0.0",
+  "description": "This bot is a system that runs on Discord and is used to monitor the status of servers using Pterodactyl. It collects and visualizes information using Pterodactyl APIs to show the performance of servers on Discord.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Pterodactyl",
+    "Discord",
+    "Bot",
+    "Status",
+    "API"
+  ],
+  "author": "ArdaWeasley",
+  "license": "MIT"
+}
