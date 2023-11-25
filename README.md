@@ -12,10 +12,10 @@
 npm install
 ```
 3. Edit config.js and add your Discord bot token and Pterodactyl API key:
-`api`: Example https://panel.rasbyte.net/api/ (You need to put a slash at the end)
-`key`: The api key you created from the panel
-`bot.channels.status`: Channel id where statuses will be discarded
-`filteredServers`: Name of the server you do not want to appear on the channel
+- `api`: Example https://panel.rasbyte.net/api/ (You need to put a slash at the end)
+- `key`: The api key you created from the panel
+- `bot.channels.status`: Channel id where statuses will be discarded
+- `filteredServers`: Name of the server you do not want to appear on the channel
 4. Run it:
 ```node index.js```
 
