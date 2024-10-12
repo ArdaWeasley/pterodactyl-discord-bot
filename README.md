@@ -3,7 +3,7 @@
 - This bot is a system that runs on Discord and is used to monitor the status of servers using Pterodactyl. It collects and visualizes information using Pterodactyl APIs to show the performance of servers on Discord.
 
 # Images
-![](https://cdn.discordapp.com/attachments/1177886460347691029/1177916225569947679/image.png?ex=65743ef8&is=6561c9f8&hm=f62f236085f1caf184e2de6cadea78ab03509f0128ce8d5b9d20da016d979153&)
+![image](https://github.com/user-attachments/assets/cc85a391-f817-4fa9-b79d-a44802305ef8)
 
 # Setup
 1. Clone or download the project.
